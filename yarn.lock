@@ -3484,10 +3484,10 @@ log-symbols@^4.1.0:
     chalk "^4.1.0"
     is-unicode-supported "^0.1.0"
 
-loops@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/loops/-/loops-0.1.5.tgz#4d173cc3af37988a0581793bd36475bb963189a3"
-  integrity sha512-hePun4m8g5hmoDpNhWuoNltBKqijjTt/aoHXig+wvBH3o4ccBL1fVt78HDmRGiCP/1sb3kr446BPM+oYRHsmPA==
+loops@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/loops/-/loops-0.2.0.tgz#585012eef398ea0060862dea128bdc9009525a71"
+  integrity sha512-yIvZx4Z44wW5nXEySR7rEjErFsRIl9OG8AR8e+LB6GYWgaZEIiJ2d10SEhp7wYT4Bp8iHC/RGc4dOY7p8kVgdw==
 
 lru-cache@^5.1.1:
   version "5.1.1"
@@ -4850,6 +4850,7 @@ which@^2.0.1:
     isexe "^2.0.0"
 
 "wrap-ansi-cjs@npm:wrap-ansi@^7.0.0", wrap-ansi@^7.0.0:
+  name wrap-ansi-cjs
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
   integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
